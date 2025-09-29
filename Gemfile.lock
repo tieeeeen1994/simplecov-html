@@ -10,7 +10,7 @@ GIT
 PATH
   remote: .
   specs:
-    simplecov-html (0.13.2)
+    simplecov-html (0.13.3)
 
 GEM
   remote: https://rubygems.org/
@@ -20,6 +20,8 @@ GEM
     docile (1.4.1)
     execjs (2.10.0)
     ffi (1.17.2)
+    ffi (1.17.2-arm64-darwin)
+    ffi (1.17.2-java)
     json (2.12.2)
     json (2.12.2-java)
     language_server-protocol (3.17.0.5)
